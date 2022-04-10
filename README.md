@@ -1,5 +1,3 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
-
 # Underwater Object (Gate) Detection using Pytorch
 
 ## Overview
@@ -7,12 +5,6 @@
 This repository created to train a model (Pre-trained Faster R-CNN ResNet-50 FPN Model)and detect an underwater object using pytorch API with the help of [Detecto](https://github.com/alankbi/detecto/).
 
 See works with other frameworks: [tensorflow](https://github.com/enesdemirag/gate-detection/tree/tensorflow), [openCV](https://github.com/enesdemirag/gate-detection/tree/openCV). 
-
-Our team works on an Autonomous Underwater Vehicle to prepare for [Singapore AUV Challange](https://sauvc.org/) and the [RoboSub'20](https://robonation.org/programs/robosub/).
-
-Check out our [website](http://auv.itu.edu.tr/) and [repo](https://gitlab.com/itu-auv).
-
-> Tested on Ubuntu 18.04
 
 ## Getting Ready
 
